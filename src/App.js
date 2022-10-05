@@ -21,7 +21,8 @@ function App() {
         };
         getWeather();
     }, []);
-    return <>{console.log(wet)}</>;
+    return <>{console.log(wet)}
+    apppppppppppppp</>;
 }
 
 export default App;
