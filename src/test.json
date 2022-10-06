@@ -1,0 +1,25 @@
+{
+    "response": {
+        "header": { "resultCode": "00", "resultMsg": "NORMAL_SERVICE" },
+        "body": {
+            "dataType": "JSON",
+            "items": {
+                "item": [
+                    { "baseDate": "20221006", "baseTime": "0500", "category": "TMP", "fcstDate": "20221006", "fcstTime": "0600", "fcstValue": "13", "nx": 35, "ny": 129 },
+                    { "baseDate": "20221006", "baseTime": "0500", "category": "UUU", "fcstDate": "20221006", "fcstTime": "0600", "fcstValue": "-0.9", "nx": 35, "ny": 129 },
+                    { "baseDate": "20221006", "baseTime": "0500", "category": "VVV", "fcstDate": "20221006", "fcstTime": "0600", "fcstValue": "-6.3", "nx": 35, "ny": 129 },
+                    { "baseDate": "20221006", "baseTime": "0500", "category": "VEC", "fcstDate": "20221006", "fcstTime": "0600", "fcstValue": "9", "nx": 35, "ny": 129 },
+                    { "baseDate": "20221006", "baseTime": "0500", "category": "WSD", "fcstDate": "20221006", "fcstTime": "0600", "fcstValue": "6.4", "nx": 35, "ny": 129 },
+                    { "baseDate": "20221006", "baseTime": "0500", "category": "SKY", "fcstDate": "20221006", "fcstTime": "0600", "fcstValue": "4", "nx": 35, "ny": 129 },
+                    { "baseDate": "20221006", "baseTime": "0500", "category": "PTY", "fcstDate": "20221006", "fcstTime": "0600", "fcstValue": "0", "nx": 35, "ny": 129 },
+                    { "baseDate": "20221006", "baseTime": "0500", "category": "POP", "fcstDate": "20221006", "fcstTime": "0600", "fcstValue": "30", "nx": 35, "ny": 129 },
+                    { "baseDate": "20221006", "baseTime": "0500", "category": "WAV", "fcstDate": "20221006", "fcstTime": "0600", "fcstValue": "0.5", "nx": 35, "ny": 129 },
+                    { "baseDate": "20221006", "baseTime": "0500", "category": "PCP", "fcstDate": "20221006", "fcstTime": "0600", "fcstValue": "강수없음", "nx": 35, "ny": 129 } 
+                ]
+            },
+            "pageNo": 1,
+            "numOfRows": 10,
+            "totalCount": 809
+        }
+    }
+}
